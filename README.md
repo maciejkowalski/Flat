@@ -9,9 +9,9 @@ The script allows to simulate mortgage loan basing on a some the most important 
 
 As an output you will be given with two charts:
 1. a first tells you what installment would be at each mounth.
-   An installement is split on capital and (loan) cost. 
+   An installement is split at capital and (loan) cost. 
    Of coure, you will have to pay the sum (capital&cost) each mounth.
-2. a second sums installment from each mount and at the end you will see the entire cosnt of your loan. 
+2. a second, sums installment from each mount and at the end you will see the entire cosnt of your loan. 
    This should be the most important asset for you.
 
 The charts shall appear in your internet browser.
