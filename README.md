@@ -26,7 +26,7 @@ The script was being tested with *Mozilla firefox 68.0.2(64-bit ) for Linux Mint
 ### How to use calculator?
 
 ```
-python3 main.py [args]
+python3 calc.py [args]
 ```
 ###### Arguments description
 ```
@@ -37,5 +37,5 @@ python3 main.py [args]
 '-it'       '--installment_type'       "An installement type [equal/decreasing]"
 
 run example:
-python3 main.py -l 300000 -bi 2 -w 2 -y 20 -it equal
+python3 calc.py -l 300000 -bi 2 -w 2 -y 20 -it equal
 ```
