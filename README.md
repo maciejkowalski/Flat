@@ -16,13 +16,12 @@ As an output you will be given with two charts:
 
 The charts shall appear in your internet browser.
 
+The script was being tested with *Mozilla firefox 68.0.2(64-bit ) for Linux Mint*
+
 ### Install required packages
 ```
 pip3 install -r requirements.txt
 ```
-
-The script was being tested with *Mozilla firefox 68.0.2(64-bit ) for Linux Mint*
-
 ### How to use calculator?
 
 ```
