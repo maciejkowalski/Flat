@@ -23,8 +23,8 @@ class InstallmentType(Enum):
 class Mortgage_cal:
     def __init__(self, 
                  loan_value: int, 
-                 interest_rate: int, 
-                 wibor_rate: int, 
+                 interest_rate: float, 
+                 wibor_rate: float, 
                  period_year: int,
                  installment_type: InstallmentType):
         self.loan_value = loan_value
@@ -106,8 +106,8 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parameters = parser.add_argument_group("loan_param")
     parameters.add_argument("-l",  "--loan",             help="Amount of credit [ex. 300000]",           type=int, required=True)
-    parameters.add_argument("-bi", "--bank_interest",    help="Bank interest [ex. 2%]",                  type=int, required=True)
-    parameters.add_argument("-w",  "--wibor",            help="Warsaw Interbank Offered Rate [ex. 2%]",  type=int, required=True)
+    parameters.add_argument("-bi", "--bank_interest",    help="Bank interest [ex. 2%]",                  type=float, required=True)
+    parameters.add_argument("-w",  "--wibor",            help="Warsaw Interbank Offered Rate [ex. 2%]",  type=float, required=True)
     parameters.add_argument("-y",  "--loan_diuration",   help="A loan duration [ex. 20 year]",           type=int, required=True)
     parameters.add_argument("-it", "--installment_type", help="An installement type [equal/decreasing]", type=str, required=True)
 
