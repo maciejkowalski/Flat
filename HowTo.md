@@ -80,7 +80,7 @@ Recommended:
 3. Overpayment
     //TODO:
 
-4. Dodatkowe koszty kredytu
+4. Additional cost. Directly linked to loan
   * bank's interest for granding the loan
     Additional bank's income for the fact it borrows you many. 
     You pay it once. Some bank doesn't take it.
