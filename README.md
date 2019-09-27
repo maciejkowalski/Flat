@@ -107,7 +107,7 @@ Recommended:
     * court fees (<1000) 
     
 6. What amount of credit shoud I take?
-    a rule 30/20/20
+  * rule 30/20/20
     30 - installment max 30% your month income
     20 - own contribution min. 20%  
     20 - load period max 20 
