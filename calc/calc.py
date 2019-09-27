@@ -90,14 +90,22 @@ class Mortgage_cal:
         fig1 = go.Figure(data=[
                 go.Bar(name='capital', x=time, y=capital_part),
                 go.Bar(name='cost',    x=time, y=costs_part)])
-        fig1.update_layout(barmode='stack', title="mortgage_part:"+str(self.installment_type))
+        fig1.update_layout(barmode='stack', 
+                           title="mortgage_part:"+str(self.installment_type),
+                           xaxis=go.layout.XAxis(title=go.layout.xaxis.Title(text="time[year]")),
+                           yaxis=go.layout.YAxis(title=go.layout.yaxis.Title(text="capital or cost"))
+                           )
         fig1.show()
 
         #figure 2
         fig2 = go.Figure(data=[
                         go.Bar(name='capital_sum', x=time, y=capital_sum),
                         go.Bar(name='cost_sum',    x=time, y=costs_sum)])
-        fig2.update_layout(barmode='stack', title="mortgage_sum:"+str(self.installment_type))
+        fig2.update_layout(barmode='stack', 
+                           title="mortgage_sum:"+str(self.installment_type),
+                           xaxis=go.layout.XAxis(title=go.layout.xaxis.Title(text="time[year]")),
+                           yaxis=go.layout.YAxis(title=go.layout.yaxis.Title(text="capital or cost"))
+                           )
         fig2.show()
 
 
