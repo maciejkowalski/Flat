@@ -32,12 +32,12 @@ Recommended:
     Always take a look on bank's margin.
 
 2. Installment
-  * *equal*
+  * *equal*<br/>
     Thru entire loan period your installment value is equal, that's mean you pay the same amount of many each month.
     In case of option with floating nominal interest rate(wibor), bank updates installment every 3/6 months
     przez cały okres kredytu płacisz równe raty tj. w tej samej kwocie co miesiąc.
     An installment value is set by equation: https://tiny.pl/tj3h3
-  * *decreasing*
+  * *decreasing*<br/>
     In this case a value of the very first installment is sum of capital to be pay(amount of credit) and nomianl interes from capital to be pay.
     After each month capital to be pay is decreasing so bank's interes also and as a result you pay less installment each month
     
@@ -107,7 +107,7 @@ Recommended:
     * court fees (<1000) 
     
 6. What amount of credit shoud I take?
-  * rule 30/20/20
+  * rule 30/20/20<br/>
     30 - installment max 30% your month income
     20 - own contribution min. 20%  
     20 - load period max 20 
