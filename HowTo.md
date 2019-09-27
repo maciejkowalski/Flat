@@ -16,8 +16,8 @@ Recommended:
 1. Nominal interest rate
     **nominal interest rate = bank's margin + wibor**
 
-  * bank's margin - constants thru loan period.
-  * wibor (Warsaw Interbank Offer Rate)- volatile thru loan period.
+  * *bank's margin* - constants thru loan period.
+  * *wibor* (Warsaw Interbank Offer Rate)- volatile thru loan period.
     It's set by bank institutions. During a loan period bank updates wibor every 3 or 6 months.
     Exemplary, your installment value is evaluated on the base of wibor=2% but after 3 months installment
     can be a litte bit lower or higher depending on actual value of wibor.There is no limitation on this 
@@ -25,19 +25,19 @@ Recommended:
     The good news is that thru the recent 10 year, it hasn't risen to much. Moreover, probably by the 2021 wibor will have been
     changed and another benchmark will be applied. More here https://tiny.pl/tjz36
     
-  * On the market there are some bank which offers constatns nominal interest rate.
+  * *const* on the market there are some bank which offers constatns nominal interest rate.
     That means the loan period wibor is frozen and its initial value is taken from the day you sign agreement to you bank.
     
     __Conclusions:__
     Always take a look on bank's margin.
 
 2. Installment
-  * equal
+  * *equal*
     Thru entire loan period your installment value is equal, that's mean you pay the same amount of many each month.
     In case of option with floating nominal interest rate(wibor), bank updates installment every 3/6 months
     przez cały okres kredytu płacisz równe raty tj. w tej samej kwocie co miesiąc.
     An installment value is set by equation: https://tiny.pl/tj3h3
-  * decreasing
+  * *decreasing*
     In this case a value of the very first installment is sum of capital to be pay(amount of credit) and nomianl interes from capital to be pay.
     After each month capital to be pay is decreasing so bank's interes also and as a result you pay less installment each month
     
