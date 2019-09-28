@@ -80,20 +80,20 @@ Recommended:
     //TODO:
 
 4. Additional cost. Directly linked to loan
-  * bank's interest for granding the loan
+  * bank's interest for granding the loan<br/>
     Additional bank's income for the fact it lent you many.
     You pay it once. Some bank doesn't take it.
-  * real estate appraisal (about 400zl)
+  * real estate appraisal (about 400zl)<br/>
     If its possible, get such appraisal from a guy which is not delegated by bank.
     It would be convinient for you especially when you are going to submit an loan applicaiton to more than one bank 
-  * temporary insurance
+  * temporary insurance<br/>
     Increased nominal interest rate by the time bank will be written in land and mortgage register.
-  * real estate insurance
-  * life insurance 
+  * real estate insurance<br/>
+  * life insurance <br/>
     pay attention to it. Don't save money for that.
-  * unemployment insurance
+  * unemployment insurance<br/>
     if required, get as chap as possible
-  * additional costs 
+  * additional costs <br/>
     like bank account, credit card etc.
     
     __Conclusions:__
