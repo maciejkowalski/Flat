@@ -76,7 +76,7 @@ Recommended:
     __Conclusions:__
     It would be better to take decreasing installment for as short period as possible.
     
-3. Overpayment
+3. Overpayment<br/>
     //TODO:
 
 4. Additional cost. Directly linked to loan
@@ -108,8 +108,8 @@ Recommended:
     
 6. What amount of credit shoud I take?
   * rule 30/20/20<br/>
-    30 - installment max 30% your month income
-    20 - own contribution min. 20%  
+    30 - installment max 30% your month income<br/>
+    20 - own contribution min. 20%<br/>
     20 - load period max 20 
     
 5. Buffer
