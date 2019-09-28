@@ -108,9 +108,9 @@ Recommended:
     
 6. What amount of credit shoud I take?
   * rule 30/20/20<br/>
-    30 - installment max 30% your month income<br/>
+    30 - installment max 30% your monthly income<br/>
     20 - own contribution min. 20%<br/>
-    20 - load period max 20 
+    20 - load period max 20 year
     
 5. Buffer
     You shoud have additional bank account where 3x installment is always kept.
