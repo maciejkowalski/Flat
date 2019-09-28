@@ -112,5 +112,5 @@ Recommended:
     20 - own contribution min. 20%<br/>
     20 - load period max 20 year
     
-5. Buffer
+5. Buffer<br/>
     You shoud have additional bank account where 3x installment is always kept.
