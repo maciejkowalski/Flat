@@ -50,7 +50,7 @@ Recommended:
     '-y'        '--loan_diuration'         "A loan duration [ex. 20 year]"
     '-it'       '--installment_type'       "An installement type [equal/decreasing]"
     ```
-    | Installment equal [ python3 calc.py -l 300000 -bi 5 -w 3 -y 5 -it equal ] |          |
+    | Installment equal [ python3 calc.py -l 300000 -bi 5 -w 3 -y 5 -it equal ] | <sup>simulation 1</sup> |
     | ------------------------------------------------------------              | -------- |
     | ![](store/eq_installment_value.png)                          | <sup>installment value</sup> |
     | ![](store/eq_installment_value_sum.png)                      | <sup>installments sum</sup> |
@@ -59,7 +59,7 @@ Recommended:
     | 64975                                                        | <sup>entire cost</sup>  |
     | **On each 1 borrowed unit you will pay 1,21 unit**           | <sup>conclusion</sup>  |
     
-    | Installment equal [ python3 calc.py -l 300000 -bi 5 -w 3 -y 5 -it equal ] |          |
+    | Installment decreasing [ python3 calc.py -l 300000 -bi 5 -w 3 -y 5 -it decreasing ] | <sup>simulation 2</sup>  |
     | ------------------------------------------------------------              | -------- |
     | ![](store/decr_installment_value.png)                          | <sup>installment value</sup> |
     | ![](store/decr_installment_value_sum.png)                      | <sup>installments sum</sup> |
