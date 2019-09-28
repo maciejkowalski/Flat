@@ -100,11 +100,11 @@ Recommended:
     Pay attention to additional loan costs.
     
 5. Additional cost. Not directly linked to loan (secondary market)
-    * PCC 2% 
-    * agent 2% (you can negotiate)
-    * notary (max 1010zl + 0,4% above 60 000zl)
-      often agent office has discount so it souldn't take more than 1500zł 
-    * court fees (<1000) 
+  * PCC 2% 
+  * agent 2% (you can negotiate)
+  * notary (max 1010zl + 0,4% above 60 000zl)
+    often agent office has discount so it souldn't take more than 1500zł 
+  * court fees (<1000) 
     
 6. What amount of credit shoud I take?
   * rule 30/20/20<br/>
