@@ -52,26 +52,26 @@ Recommended:
     ```
     | Installment equal [ python3 calc.py -l 300000 -bi 5 -w 3 -y 5 -it equal ] | <sup>simulation 1</sup> |
     | ------------------------------------------------------------              | -------- |
-    | ![](store/eq_installment_value.png)                          | <sup>installment value</sup> |
-    | ![](store/eq_installment_value_sum.png)                      | <sup>installments sum</sup> |
-    | ![](store/eq_costs.png)                                      | <sup>only cost value</sup> |
-    | ![](store/eq_costs_sum.png)                                  | <sup>cost value sum</sup>  |
-    | 64975                                                        | <sup>entire cost</sup>  |
-    | **On each 1 borrowed unit you will pay 1,21 unit**           | <sup>conclusion</sup>  |
+    | ![](store/eq_installment_value.png)                                       | <sup>installment value</sup> |
+    | ![](store/eq_installment_value_sum.png)                                   | <sup>installments sum</sup> |
+    | ![](store/eq_costs.png)                                                   | <sup>only cost value</sup> |
+    | ![](store/eq_costs_sum.png)                                               | <sup>cost value sum</sup>  |
+    | 64975                                                                     | <sup>entire cost</sup>  |
+    | **On each 1 borrowed unit you will pay 1,21 unit**                        | <sup>conclusion</sup>  |
     
-    | Installment decreasing [ python3 calc.py -l 300000 -bi 5 -w 3 -y 5 -it decreasing ] | <sup>simulation 2</sup>  |
-    | ------------------------------------------------------------              | -------- |
-    | ![](store/decr_installment_value.png)                          | <sup>installment value</sup> |
-    | ![](store/decr_installment_value_sum.png)                      | <sup>installments sum</sup> |
-    | ![](store/decr_costs.png)                                      | <sup>only cost value</sup> |
-    | ![](store/decr_costs_sum.png)                                  | <sup>cost value sum</sup>  |
-    | 59000                                                          | <sup>entire cost</sup>  |
-    | **On each 1 borrowed unit you will pay 1,19 unit**             | <sup>conclusion</sup>  |
+    | Installment decreasing [ python3 calc.py -l 300000 -bi 5 -w 3 -y 5 -it decreasing ]  | <sup>simulation 2 </sup>  |
+    | ------------------------------------------------------------                         | -------- |
+    | ![](store/decr_installment_value.png)                                                | <sup>installment value</sup> |
+    | ![](store/decr_installment_value_sum.png)                                            | <sup>installments sum</sup> |
+    | ![](store/decr_costs.png)                                                            | <sup>only cost value</sup> |
+    | ![](store/decr_costs_sum.png)                                                        | <sup>cost value sum</sup>  |
+    | 59000                                                                                | <sup>entire cost</sup>  |
+    | **On each 1 borrowed unit you will pay 1,19 unit**                                   | <sup>conclusion</sup>  |
     
-    |  <sup>Installment [ python3 calc.py -l 300000 -bi 5 -w 3 -y 20 -it equal ] </sup> |  |
-    | ------------------------------------------------------------                      | -------- |
-    | equal| <sup>**On each 1 borrowed unit you will pay 1,79 unit**</sup>              ||
-    | decreasing| <sup>**On each 1 borrowed unit you will pay 2 unit**</sup>            ||
+    |  <sup>Installment [ python3 calc.py -l 300000 -bi 5 -w 3 -y 20 -it equal ] </sup>  <br/><sup>Installment [ python3 calc.py -l 300000 -bi 5 -w 3 -y 20 -it decreasing ] </sup> | <sup>simulation 3 </sup> |
+    | ------------------------------------------------------------                         | -------- |
+    | equal| <sup>**On each 1 borrowed unit you will pay 1,79 unit**</sup>                 ||
+    | decreasing| <sup>**On each 1 borrowed unit you will pay 2 unit**</sup>               ||
     
     __Conclusions:__
     It would be better to take decreasing installment for as short period as possible.
@@ -81,10 +81,11 @@ Recommended:
 
 4. Additional cost. Directly linked to loan
   * bank's interest for granding the loan
-    Additional bank's income for the fact it borrows you many. 
+    Additional bank's income for the fact it lent you many.
     You pay it once. Some bank doesn't take it.
   * real estate appraisal (about 400zl)
     If its possible, get such appraisal from a guy which is not delegated by bank.
+    It would be convinient for you especially when you are going to submit an loan applicaiton to more than one bank 
   * temporary insurance
     Increased nominal interest rate by the time bank will be written in land and mortgage register.
   * real estate insurance
