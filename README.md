@@ -25,8 +25,8 @@ Recommended:
     The good news is that thru the recent 10 year, it hasn't risen to much. Moreover, probably by the 2021 wibor will have been
     changed and another benchmark will be applied. More here https://tiny.pl/tjz36
     
-  * *const* on the market there are some bank which offers constatns nominal interest rate.
-    That means the loan period wibor is frozen and its initial value is taken from the day you sign agreement to you bank.
+  * *const* on the market there are some banks which offer constatns nominal interest rate.
+    That means thru a loan period wibor is frozen and its initial value is taken from the day you sign agreement to you bank.
     
     __Conclusions:__
     Always take a look on bank's margin.
@@ -34,8 +34,7 @@ Recommended:
 2. Installment
   * *equal*<br/>
     Thru entire loan period your installment value is equal, that's mean you pay the same amount of many each month.
-    In case of option with floating nominal interest rate(wibor), bank updates installment every 3/6 months
-    przez cały okres kredytu płacisz równe raty tj. w tej samej kwocie co miesiąc.
+    In case of option with floating nominal interest rate(wibor), bank updates installment every 3 or 6 months
     An installment value is set by equation: https://tiny.pl/tj3h3
   * *decreasing*<br/>
     In this case a value of the very first installment is sum of capital to be pay(amount of credit) and nomianl interes from capital to be pay.
