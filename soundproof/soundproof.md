@@ -45,7 +45,7 @@ xD
 Postanowilem spróbować zrobić izolacje akustyczną a w międzyczasie sprawdzać jak wygląda sprzedaż mieszkania co dopiero zakupionego z punktu widzenia banku i ewentualnch podatków które musaiłbym odprowadzić.
 
 ### Teoria:
-https://www.youtube.com/watch?v=t8WGBlVI5A4
+https://www.youtube.com/watch?v=t8WGBlVI5A4 <br>
 https://www.paroc.pl/knowhow/akustyka/izolacyjnosc-akustyczna
 
 Teoria mówi: najlepiej izoluje albo masa albo konstrukcja masa-sprężyna-masa.
