@@ -6,7 +6,7 @@ Przewinąłem się podczas studiów i pracy przez co najmniej 10 mieszkan w wię
 Po zakupie okazało się, że nademną mieszka 2+2.
 Dzwięki powietrzne są wyraźne. Bardzo wyraźne. Z łatwością jestem wstanie zrozumieć że Madzia z Piotrusiem jeśli się nie uspokoją to nie pojadą jutro na działke.
 I do tego dzwięki uderzeniowe. W tygodniu od 16 do 20 w weekend bez przerwy, no chyba że pojechali na działke.
-A tu próbka tłuczenia niedzielnego kotleta przez sąsiada 
+A tu próbka tłuczenia niedzielnego kotleta przez sąsiada:
 
 <!-- blank line -->
 <figure class="video_container">
