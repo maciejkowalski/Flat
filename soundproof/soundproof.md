@@ -36,7 +36,7 @@ https://tiny.pl/79h4z
 
 A te które raportowane były jako sukces brzmiały:
 
->  Kolega mojego męża polecił nam panele zyx których sam używał. Razem z moim mężczyzną powiesliliśmy na ścianach i wkońcu mamy spokoj
+>  Kolega mojego męża polecił nam panele firmy zyx których sam używał. Razem z moim mężczyzną powiesliliśmy na ścianach i wkońcu mamy spokoj
 
 Brakowało tylko klasyki *"Sąsiedzi go znienawidzą. Znalazł sposób na hałasy.."*
 xD
