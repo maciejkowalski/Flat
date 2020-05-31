@@ -29,7 +29,7 @@ Tym gorzej, że to były porady espertów budowlanych.
 Co gorsza znalazło się pare opinii osób ktore wykonały izolacje i twierdzili że nic się nie poprawilo.
 Były nawet że się pogorszyło:
 
->  <Ewa1313>
+>  Ewa1313
 Trochę poźno znalazlam ten post, ale chciałam napisać, żeby nie korzystać z usług firmy xyz. Tragedia! Robili mi sufit. Teraz chłopaka z gory słyszę jeszcze bardziej niż słyszalam. Mam teraz pudło rezonansowe - pusty bęben. 
 Nie śpię w domu już od póltora roku. Tak mi typki zmaścili sufit.
 https://tiny.pl/79h4z
