@@ -156,10 +156,6 @@ materiał:
 
 ![](../store/room2/15.JPG)
 
-sdf
-<img src="../store/room2/15.JPG" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
-
 ## Efekt
 Dźwięki powietrzne
 - od sąsiada z góry bardzo mocno zredukowane. Jeśli ktoś krzyczy lub głośno mówi to da się to stwierdzić ale nie da się wyłapać żadnych słów. Stan OK.
