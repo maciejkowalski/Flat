@@ -31,7 +31,7 @@ Były nawet że się pogorszyło:
 
 >  Ewa1313
 Trochę poźno znalazlam ten post, ale chciałam napisać, żeby nie korzystać z usług firmy xyz. Tragedia! Robili mi sufit. Teraz chłopaka z gory słyszę jeszcze bardziej niż słyszalam. Mam teraz pudło rezonansowe - pusty bęben. 
-Nie śpię w domu już od póltora roku. Tak mi typki zmaścili sufit.
+Nie śpię w domu już od póltora roku. Tak mi typki zmaścili sufit. <br>
 https://tiny.pl/79h4z
 
 A te które raportowane były jako sukces brzmiały:
