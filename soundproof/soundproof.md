@@ -64,14 +64,14 @@ Teoria mówi: najlepiej izoluje albo masa albo konstrukcja masa-sprężyna-masa.
    Dlatego użyty K-G powinien mieć większą mase niż zwykły K-G. A najlepiej stosować podwójne płyty. <br>
    m,k - masa, współczynnik sprężystości.
 
-W praktyce jak to było pokazane na filmiku, dzwięk kiedy dostanie się do konstrukcji budynku roznosi się poprzez drgania w całej objętości budynku. 
+W praktyce jak to było pokazane na filmiku, dźwięk kiedy dostanie się do konstrukcji budynku roznosi się poprzez drgania w całej objętości budynku. 
 Dlatego jak sugerowali wcześniej, to podłoga pływająca jest najlepszym i najtańszym miejscem odcięcia drgań, bo izoluje u źródła.
 
 ### Ograniczenia
 Do tego dochodzą ograniczenia prawa budowlanego + wymysły samej spółdzielni co wolno a czego nie wolno robić.
 >  W zakresie wykoniania podwieszanego sufitu w pokojach budunków mieszkalnych, łazienkach.. , należy zachować minimlną wysokość 2.5m zgodnie z $72 ust.1 oraz $77 ust 2 Rozporzącdzenia Ministra Infrastruktury z 12.04.2002
 
-Podobnie ze ścianiami których nie można pogrubić gdyż zabrania się zmiany powierzchni użytkowej.
+Podobnie ze ścianami których nie można pogrubić gdyż zabrania się zmiany powierzchni użytkowej.
 Niestety nie było pola manewru. Blok ma wysokość pomieszczeń 2.5m a izolacja ścian musi zmiejszyć troche powierzchni użytkowej.
 
 ### Co zrobiłem
