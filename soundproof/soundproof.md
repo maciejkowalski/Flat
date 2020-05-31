@@ -8,7 +8,7 @@ A tu próbka tłuczenia niedzielnego kotleta przez sąsiada ![](media/MOV_001.mp
 
 ```html
 <video width="320" height="240" controls>
-  <source src="media/MOV_0001.avi" type="video/avi">
+  <source src="MOV_001.avi" type="video/avi">
 </video>
 ```
 
