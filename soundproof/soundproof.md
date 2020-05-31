@@ -60,8 +60,9 @@ Teoria mówi: najlepiej izoluje albo masa albo konstrukcja masa-sprężyna-masa.
    ![](../store/sp1.gif)
 
    ![](../store/sp2.gif)  
-   m,k - masa, współczynnik sprężystości. Ściana/wełna skalna/K-G
-   Dlatego użyty K-G powinien mieć większą mase niż zwykły K-G. A najlepiej stosować podwójne płyty.
+   Ściana/wełna skalna/K-G
+   Dlatego użyty K-G powinien mieć większą mase niż zwykły K-G. A najlepiej stosować podwójne płyty. <br>
+   m,k - masa, współczynnik sprężystości.
 
 W praktyce jak to było pokazane na filmiku, dzwięk kiedy dostanie się do konstrukcji budynku roznosi się poprzez drgania w całej objętości budynku. 
 Dlatego jak sugerowali wcześniej, to podłoga pływająca jest najlepszym i najtańszym miejscem odcięcia drgań, bo izoluje u źródła.
