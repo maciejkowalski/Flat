@@ -1,11 +1,9 @@
-**Post ten ma na celu pomoc w doborze materiałów jak i konstrukcji dla osób planujących wykonanie izloacji akustycznej.**
 
 ## Sytacja:
 Kupiłem mieszkanie do generalnego remontu w jednym z krakowskich bloków z wielkiej płyty. Lata 80-te. Jak większość nie zwróciłem uwagi na akustyke.
 Przewinąłem się podczas studiów i pracy przez co najmniej 10 mieszkan w większości z wielkiej płyty i nigdy nie było problemu z akustyką. 
 Po zakupie okazało się, że nademną mieszka 2+2.
-Dzwięki powietrzne są wyraźne. Bardzo wyraźne. Z łatwością jestem wstanie zrozumieć że Madzia z Piotrusiem jeśli się nie uspokoją to nie pojadą jutro na działke.
-I do tego dzwięki uderzeniowe. W tygodniu od 16 do 20 w weekend bez przerwy, no chyba że pojechali na działke.
+Dzwięki powietrzne są wyraźne. Bardzo wyraźne. Z łatwością jestem wstanie zrozumieć całe zdania. I do tego dzwięki uderzeniowe.
 A tu próbka tłuczenia niedzielnego kotleta przez sąsiada:
 
 <!-- blank line -->
@@ -17,11 +15,9 @@ A tu próbka tłuczenia niedzielnego kotleta przez sąsiada:
 <!-- blank line -->
 
 Najgorsza jest codzienność tego stanu i brak kontroli nad tym. 
-Psychika nakręca się, wyostrza do tego stopnia że po 2 msc mieszkania obudziłem się rano z powodu byle szmeru z ciśnienim jakbym własnie przebiegł 100m i się zatrzymał.
-To chyba sugerowało nerwice.
 Z tego co patrzylem sąsiad mial w pokojach deskie barlinecką a w kuchni i korytarzu płytki. 
-Zwróciłem mu jedynie uwage że wszystko słychać. Nie chcialem robić wojny, zresztą problemem była konstrukcja budynku nie zaś sposób urzytkowania.
-Wyprowadziłem się. 
+Zwróciłem mu jedynie uwage że wszystko słychać. Wyglądał jakby temat nie był mu obcy.
+Planowałem generalny remont wiec tymczasowo wyprowadziłem się. 
 Przeglądałem dostępne materiały w sieci, profesjonalne szkolenia, amerykańskie poradniki - w końcu tam się robi lekkie domki z drewna więc muszą sobie z tym radzić jakoś.
 Nie  wyglądało to obiecująco. Większość porad brzmi :
 *niech sąsiad zrobi podłoge pływającą/kup stopery/wyprowadź się*. 
@@ -85,7 +81,7 @@ materiał:
 - mocowanie ściany:Atlas m-system / sufit:profile ud27 ,cd 60
 - wieszaki ES z dorabianą podkładką antywibracyjną
 - sufit druga płyta KG 8mm
-- pianka poliuretanowa
+- pianka poliuretanowa - izolacja obwodowa profili cd/ud
 
 ![](../store/room1/1.JPG)
 
@@ -124,7 +120,7 @@ materiał:
 - płyty K-G Norgips acustic. 11.5kg/m2 
 - profile ud27 ,cd 60
 - wieszaki ES z podkładką antywibracyjną
-- taśma obwodowa stywall
+- taśma obwodowa stywall na wszystkie profile ud27
 
 ![](../store/room2/1.JPG)
 
@@ -158,9 +154,10 @@ materiał:
 
 ## Efekt
 Dźwięki powietrzne
-- od sąsiada z góry bardzo mocno zredukowane. Jeśli ktoś krzyczy lub głośno mówi to da się to stwierdzić ale nie da się wyłapać żadnych słów. Stan OK.
-- od sądiada z dołu troche bardziej słyszalne. Położenie paneli z podkładem powinno to jeszcze zredukować. Stan OK.
+ - w obu pomieszczeniach bardzo mocno zredukowane. Jeśli ktoś krzyczy lub głośno mówi to da się to stwierdzić ale nie da się wyłapać żadnych słów. Stan OK.
+
 
 Dźwięki uderzeniowe
-- od sąsiada z góry stłumione ale odczuwalne jesli ktoś biega. Słychać tylko basy. W porównaniu ze stanem wyjściowym, jest lepiej. Jednak izolacja nie radzi sobie 
-  z tym tak dobrze jak z dźwiękami powietrznymi. 
+- od sąsiada z góry stłumione ale odczuwalne jesli ktoś biega. Szczególnie pokój nr 2 bo nad nim dzieci mają swoj pokój.
+  W porównaniu ze stanem wyjściowym, jest lepiej. Jednak izolacja nie radzi sobie z tym tak dobrze jak z dźwiękami powietrznymi. 
+  Tutaj nie jestem w pełni zadowolony z efektów. Zastanawiam sie nad podwójnym płytowaniem sufitu w pok 2.
